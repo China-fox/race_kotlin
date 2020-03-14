@@ -1,0 +1,402 @@
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 1
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 1
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 2
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 3
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 4
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 5
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 6
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 7
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 8
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 9
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 2
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 3
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 10
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 11
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 4
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 5
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 6
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 7
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 8
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 9
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 10
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 12
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 11
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 13
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 12
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 14
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 13
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 15
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 14
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 15
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 16
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 16
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 17
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 17
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 18
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 18
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 19
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 19
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 20
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 20
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 21
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 21
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 22
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 22
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 23
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 23
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 24
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 24
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 25
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 25
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 26
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 26
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 27
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 27
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 28
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 28
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 29
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 29
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 30
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 31
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 32
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 33
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 34
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 35
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 30
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 31
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 32
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 36
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 33
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 37
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 34
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 38
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 35
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 36
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 37
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 38
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 39
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 40
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 41
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 42
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 43
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 44
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 45
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 46
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 47
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 48
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 49
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 50
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 51
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 52
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 53
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 54
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 55
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 56
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 57
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 58
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 59
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 60
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 61
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 62
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 63
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 64
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 65
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 66
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 67
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 68
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 69
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 70
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 71
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 72
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 73
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 74
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 75
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 76
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 77
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 78
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 79
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 80
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 81
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 82
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 39
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 83
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 40
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 84
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 41
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 42
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 43
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 44
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 45
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 46
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 47
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 48
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 49
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 50
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 51
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 85
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 86
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 87
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 52
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 53
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 54
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 55
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 56
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 57
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 58
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 59
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 60
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 61
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 62
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 63
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 64
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 65
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 66
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 88
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 89
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 90
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 91
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 92
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 93
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 94
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 95
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 96
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 67
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 68
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 69
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 70
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 71
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 72
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 73
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 74
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 75
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 76
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 77
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 78
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 79
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 80
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 81
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 82
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 83
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 84
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 85
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 86
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 87
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 88
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 89
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 90
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 91
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 92
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 93
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 94
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 95
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 96
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 97
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 98
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 99
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Первый - 100
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 97
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 98
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 99
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Второй - 100
+мар. 15, 2020 5:02:01 AM kot.MainKt writeLog
+INFO: Победитель - Первый
