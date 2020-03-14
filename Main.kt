@@ -1,21 +1,23 @@
 package kot
 
-import race.ThreadA
-import race.ThreadB
+import race.MyThread
+
+var winner: String = ""
 
 fun main() {
-    val threadA = ThreadA()
-    val threadB = ThreadB()
-    println("Гонка началась!")
 
-    threadA.start()
-    threadB.start()
-
+    val threadA = MyThread("Первый")
+    val threadB = MyThread("Второй")
+  //  val threadC = MyThread("Третий")
     threadA.join()
-    if (threadB.isAlive)
-    {
-        println("Первый выиграл")
-    } else {
-        println("Второй выиграл")
+    threadB.join()
+  //  threadC.join()
+    println("Победитель - $winner")
+
+}
+
+@Synchronized fun whoWinner(name: String){
+    if (winner.isEmpty()) {
+        winner = name
     }
 }
