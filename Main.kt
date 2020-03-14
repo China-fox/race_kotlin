@@ -2,7 +2,7 @@ package kot
 
 import race.MyThread
 
-var winner: String = ""
+@Volatile var winner: String = ""
 
 fun main() {
 
@@ -16,7 +16,7 @@ fun main() {
 
 }
 
-@Synchronized fun whoWinner(name: String){
+fun whoWinner(name: String){
     if (winner.isEmpty()) {
         winner = name
     }
